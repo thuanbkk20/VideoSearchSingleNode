@@ -179,3 +179,5 @@ static/
 # Database file
 *.db
 *.lock
+
+video-fetch-and-trim/
